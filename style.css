@@ -20,7 +20,7 @@ body {
   background-color: blueviolet;
   width: 350px;
   height: 50px;
-  /*border: solid 2px;*/
+  border: solid 2px;
 }
 .name {
   width: 160px;
@@ -48,9 +48,12 @@ body {
   padding: 10px;
   border: solid 5px coral;
   margin: 10px;
+  text-align: center;
 }
 .boxmodelB {
   width: 100px;
-  height: 100px;
+  height: 50px;
   background-color: rgb(215, 250, 217);
+  text-align: center;
+  padding-top: 40px;
 }
